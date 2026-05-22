@@ -6,7 +6,7 @@
 #include "libhwinfo.h"
 
 #ifndef WIFI_DRIVER_MODULE_PATH
-#define WIFI_DRIVER_MODULE_PATH "/vendor/lib/modules/"
+#define WIFI_DRIVER_MODULE_PATH "/vendor/lib/modules_longan/"
 #endif
 
 #define DRIVER_MODULE_NAME      get_wifi_driver_module_name()
